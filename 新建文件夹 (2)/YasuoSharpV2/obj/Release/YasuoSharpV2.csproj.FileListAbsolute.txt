@@ -1,0 +1,3 @@
+C:\Users\86138\Desktop\YasuoSharpV2\obj\Release\YasuoSharpV2.csprojResolveAssemblyReference.cache
+C:\Users\86138\Desktop\YasuoSharpV2\obj\Release\YasuoSharpV2.Properties.Resources.resources
+C:\Users\86138\Desktop\YasuoSharpV2\obj\Release\YasuoSharpV2.csproj.GenerateResource.Cache
